@@ -4667,7 +4667,7 @@ MonoBehaviour:
   isDashing: 0
   dashingPower: 8
   dashingTime: 0.15
-  dashingCooldown: 1
+  dashingCooldown: 0.7
   AttackingMovementPercentage: 0.9
   isAttacking: 0
   tr: {fileID: 508558484}
